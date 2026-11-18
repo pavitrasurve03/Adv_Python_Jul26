@@ -1,3 +1,5 @@
+# Basic Python Classes and Objects
+# Class is a Blueprint using which we shall create objects
 class Dog:
     #constructor
     def __init__(self,name,age):
